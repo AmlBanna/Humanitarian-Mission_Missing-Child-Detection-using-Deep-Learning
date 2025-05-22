@@ -13,6 +13,16 @@ By building an intelligent system that processes image data and assists in match
 ## 🎯 Objective
 Use image processing and deep learning techniques to identify and match photos of missing children with known image data.
 
+## Challenges
+1.Integrating data from diverse sources.
+
+2.Enhancing model accuracy with limited labeled data
+
+3.Adjusting parameters to reduce false positives/negatives.
+
+4.Handling real-time data processing at scale
+
+
 
 
 ## 🧰 Technologies Used
